@@ -1,5 +1,5 @@
 """Simple task manager for the Git lesson."""
-
+print(f"hello world")
 
 def show_tasks(tasks):
     """Print the current tasks as a numbered list."""
